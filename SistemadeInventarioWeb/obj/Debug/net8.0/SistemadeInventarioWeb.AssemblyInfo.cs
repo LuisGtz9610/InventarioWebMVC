@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemadeInventarioWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eccd1a0c8846185589f1000d6b79de3538f21e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6daf3e88b35d3015d70e4a765f7a128929999fb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemadeInventarioWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemadeInventarioWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,6 +17,8 @@ namespace SistemadeInventarioWeb.SistemaInventado.AccesoDatos.Data
 
         public DbSet<Categoria> Categorias { get; set; }
 
+        public DbSet<Marca> Marcas { get; set; }
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
